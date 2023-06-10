@@ -1,1 +1,5 @@
-# virtual_reality_pre_model_game
+# Virtual Reality
+
+This project is model for playCanvas sets-up a Blender figure into PlayCanvas \\
+
+[ ] AR camera is off
