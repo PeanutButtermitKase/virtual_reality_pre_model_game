@@ -2,7 +2,6 @@
 
 This project is model for playCanvas sets-up a Blender figure into PlayCanvas 
 
-
 # Project Status
 
 - [X] First JavaScript code to set-up rotations on mobile phone
